@@ -3,7 +3,8 @@ import os
 
 from google.cloud import vision
 client = vision.ImageAnnotatorClient()
-file_name = os.path.abspath('D:/vertex-ai/vision-api/shanghai.jpeg')
+# file_name = os.path.abspath('D:/vertex-ai/vision-api/shanghai.jpeg')
+file_name = os.path.abspath('D:/vertex-ai/vision-api/bike.jpg')
 with io.open(file_name, 'rb') as image_file:
     content = image_file.read()
     
