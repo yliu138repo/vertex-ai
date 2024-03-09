@@ -1,0 +1,377 @@
+{
+    "responses": [
+      {
+        "labelAnnotations": [
+          {
+            "mid": "/m/083wq",
+            "description": "Wheel",
+            "score": 0.9769354,
+            "topicality": 0.9769354
+          },
+          {
+            "mid": "/m/0h9mv",
+            "description": "Tire",
+            "score": 0.9716478,
+            "topicality": 0.9716478
+          },
+          {
+            "mid": "/m/068jd",
+            "description": "Photograph",
+            "score": 0.9416616,
+            "topicality": 0.9416616
+          }
+        ],
+        "textAnnotations": [
+          {
+            "locale": "und",
+            "description": "牛牛面馆",
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 38,
+                  "y": 54
+                },
+                {
+                  "x": 244,
+                  "y": 54
+                },
+                {
+                  "x": 244,
+                  "y": 90
+                },
+                {
+                  "x": 38,
+                  "y": 90
+                }
+              ]
+            }
+          },
+          {
+            "description": "牛牛",
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 38,
+                  "y": 54
+                },
+                {
+                  "x": 136,
+                  "y": 54
+                },
+                {
+                  "x": 136,
+                  "y": 90
+                },
+                {
+                  "x": 38,
+                  "y": 90
+                }
+              ]
+            }
+          },
+          {
+            "description": "面",
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 145,
+                  "y": 54
+                },
+                {
+                  "x": 188,
+                  "y": 54
+                },
+                {
+                  "x": 188,
+                  "y": 90
+                },
+                {
+                  "x": 145,
+                  "y": 90
+                }
+              ]
+            }
+          },
+          {
+            "description": "馆",
+            "boundingPoly": {
+              "vertices": [
+                {
+                  "x": 192,
+                  "y": 54
+                },
+                {
+                  "x": 244,
+                  "y": 54
+                },
+                {
+                  "x": 244,
+                  "y": 90
+                },
+                {
+                  "x": 192,
+                  "y": 90
+                }
+              ]
+            }
+          }
+        ],
+        "fullTextAnnotation": {
+          "pages": [
+            {
+              "width": 650,
+              "height": 434,
+              "blocks": [
+                {
+                  "boundingBox": {
+                    "vertices": [
+                      {
+                        "x": 38,
+                        "y": 54
+                      },
+                      {
+                        "x": 244,
+                        "y": 54
+                      },
+                      {
+                        "x": 244,
+                        "y": 90
+                      },
+                      {
+                        "x": 38,
+                        "y": 90
+                      }
+                    ]
+                  },
+                  "paragraphs": [
+                    {
+                      "boundingBox": {
+                        "vertices": [
+                          {
+                            "x": 38,
+                            "y": 54
+                          },
+                          {
+                            "x": 244,
+                            "y": 54
+                          },
+                          {
+                            "x": 244,
+                            "y": 90
+                          },
+                          {
+                            "x": 38,
+                            "y": 90
+                          }
+                        ]
+                      },
+                      "words": [
+                        {
+                          "boundingBox": {
+                            "vertices": [
+                              {
+                                "x": 38,
+                                "y": 54
+                              },
+                              {
+                                "x": 136,
+                                "y": 54
+                              },
+                              {
+                                "x": 136,
+                                "y": 90
+                              },
+                              {
+                                "x": 38,
+                                "y": 90
+                              }
+                            ]
+                          },
+                          "symbols": [
+                            {
+                              "boundingBox": {
+                                "vertices": [
+                                  {
+                                    "x": 38,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 84,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 84,
+                                    "y": 90
+                                  },
+                                  {
+                                    "x": 38,
+                                    "y": 90
+                                  }
+                                ]
+                              },
+                              "text": "牛"
+                            },
+                            {
+                              "boundingBox": {
+                                "vertices": [
+                                  {
+                                    "x": 91,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 136,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 136,
+                                    "y": 90
+                                  },
+                                  {
+                                    "x": 91,
+                                    "y": 90
+                                  }
+                                ]
+                              },
+                              "text": "牛"
+                            }
+                          ]
+                        },
+                        {
+                          "boundingBox": {
+                            "vertices": [
+                              {
+                                "x": 145,
+                                "y": 54
+                              },
+                              {
+                                "x": 188,
+                                "y": 54
+                              },
+                              {
+                                "x": 188,
+                                "y": 90
+                              },
+                              {
+                                "x": 145,
+                                "y": 90
+                              }
+                            ]
+                          },
+                          "symbols": [
+                            {
+                              "boundingBox": {
+                                "vertices": [
+                                  {
+                                    "x": 145,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 188,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 188,
+                                    "y": 90
+                                  },
+                                  {
+                                    "x": 145,
+                                    "y": 90
+                                  }
+                                ]
+                              },
+                              "text": "面"
+                            }
+                          ]
+                        },
+                        {
+                          "boundingBox": {
+                            "vertices": [
+                              {
+                                "x": 192,
+                                "y": 54
+                              },
+                              {
+                                "x": 244,
+                                "y": 54
+                              },
+                              {
+                                "x": 244,
+                                "y": 90
+                              },
+                              {
+                                "x": 192,
+                                "y": 90
+                              }
+                            ]
+                          },
+                          "symbols": [
+                            {
+                              "property": {
+                                "detectedBreak": {
+                                  "type": "LINE_BREAK"
+                                }
+                              },
+                              "boundingBox": {
+                                "vertices": [
+                                  {
+                                    "x": 192,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 244,
+                                    "y": 54
+                                  },
+                                  {
+                                    "x": 244,
+                                    "y": 90
+                                  },
+                                  {
+                                    "x": 192,
+                                    "y": 90
+                                  }
+                                ]
+                              },
+                              "text": "馆"
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "blockType": "TEXT"
+                }
+              ]
+            }
+          ],
+          "text": "牛牛面馆"
+        },
+        "localizedObjectAnnotations": [
+          {
+            "mid": "/m/01g317",
+            "name": "Person",
+            "score": 0.87862456,
+            "boundingPoly": {
+              "normalizedVertices": [
+                {
+                  "x": 0.07616714,
+                  "y": 0.42796206
+                },
+                {
+                  "x": 0.21789867,
+                  "y": 0.42796206
+                },
+                {
+                  "x": 0.21789867,
+                  "y": 0.77309614
+                },
+                {
+                  "x": 0.07616714,
+                  "y": 0.77309614
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
